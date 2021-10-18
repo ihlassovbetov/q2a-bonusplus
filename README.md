@@ -1,3 +1,5 @@
+# q2a-bonusplus
+
 <b>Plugin Name:</b>  BonusPlus <br>
 <b>Price:</b> 75 USD (contact me to buy) <br>
 <b>Plugin Description:</b> This is premium paid Q2A plugin that improves and augments current point system over bonus points. <br>
