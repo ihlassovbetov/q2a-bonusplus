@@ -68,7 +68,7 @@
 		<ul class="second">
 			<li>User Records page adds user-sub navigation where all above transactions (incoming and outcoming) are shown. Standard users can only see their own bonus records page. Admins can see any users records.</li>
 			<li>In admin settings, admin can set user level that can do/see all bonusplus activities.</li>
-      <img src="https://ihlassovbetov.github.io/assets/plugin-ss/bonusplus/bonus-records-history.png" width="500px" height="auto" />
+      <img src="https://ihlassovbetov.github.io/assets/plugin-ss/bonusplus/bonus-records.png" width="500px" height="auto" />
 		</ul>
 	</li>
 </ul>	
