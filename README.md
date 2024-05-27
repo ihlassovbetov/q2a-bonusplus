@@ -1,6 +1,6 @@
 # q2a-bonusplus
 
-<b>Plugin Name:</b>  BonusPlus <br>
+<b>Plugin Name:</b>  BonusPlus (UPDATED: 27/05/2024)<br>
 <b>Price:</b> 40 USD (contact me to buy) <br>
 <b>Plugin Description:</b> This is premium paid Q2A plugin that improves and augments current point system over bonus points. <br>
 <br>
@@ -26,12 +26,16 @@
   <br/>
 	<li>PROMOTION EXTENSION:
 		<ul class="second">
-			<li>Users can promote/feature their own or others questions for 24 hours paying a cost of certain points.</li>
-			<li>In admin settings, admin can set cost points of promotion. It should be negative value.</li>
+			<li>Users can promote/feature their own questions for 24 hours paying a cost of certain points.</li>
+			<li>Admin (specified userlevel) can promote/feature any questions for 24 hours paying a cost of certain points.</li>
+			<li>In admin settings, admin can set cost points of promotion. No matter if it is negative/positive value, because in backend it is justed to negative point anyways.</li>
 			<li>Promotion duration is 24 hours.</li>
 			<li>In admin settings, admin can enable/disable it.</li>
       <img src="https://ihlassovbetov.github.io/assets/plugin-ss/bonusplus/img-6.png" width="500px" height="auto" />
       <img src="https://ihlassovbetov.github.io/assets/plugin-ss/bonusplus/img-5.png" width="500px" height="auto" />
+			<li>UPDATE 27/05/2024: Stoping/Cancelling promotion is added. Post Owner or Admins (specified userlevels) can stop/cancel/remove post from promotion. This is beneficial to control non-relevant, spam, ad, low quality posts from being promoted.</li>
+			<li>UPDATE 27/05/2024: When promoted post is stopped/cancelled, it will not refund the cost (points) deducted from promoter user to promote the post. The logic here is to avoid spamming on promotion/cancellation processes.</li>
+			<li>UPDATE 27/05/2024: When promoted post is stopped/cancelled, the system will set 24-hour ambargo period for this post. It means after cancellation of promotion, the post cannot be re-promoted until 24-hour ambargo period ends. The logic here is to avoid spamming on promotion/cancellation processes.</li>
 		</ul>
 	</li>
   <br/>
@@ -41,7 +45,7 @@
 			<li>In admin settings, admin can enable/disable it.</li>
 			<li>In admin settings, admin can set amount of bonus points to be awarded to referrer user per reference.</li>
 			<li>Widget Box for referral is also available in users page. From this widget referrer users can send URL link inviting other users. This URL link will be unique for the referrer user. New users should complete their registration via this provided url.</li>
-			<li>From Referral Widget users can send referral linkt to facebook, twitter, google plus, odnoklassniki, and vkontakte. The raw URL will be also provided to user to copy and share it in other platforms.</li>
+			<li>From Referral Widget users can send referral linkt to facebook, twitter, linkedin, instagram, whatsapp, and telegram The raw URL will be also provided to user to copy and share it in other platforms.</li>
       <img src="https://ihlassovbetov.github.io/assets/plugin-ss/bonusplus/img-7.png" width="500px" height="auto" />
 		</ul>
 	</li>
